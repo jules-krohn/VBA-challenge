@@ -12,3 +12,5 @@ Code: The code in "Multiple_Year_Stock_Data_Krohn" is made up of four different 
     * During a tutoring session, tutor Rebecca Leeds assisted with the code for finding the greatest percent increase and decrease
 
 Though using 4 subs for one data workbook is more time-consuming than using one sub, the code is reliable and runs correctly. 
+
+The photo files show the first 30 rows of results for each sheet.
